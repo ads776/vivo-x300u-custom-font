@@ -4,12 +4,12 @@ A single-page guide to the tested GC Tune/Game Cube custom-font method for the v
 
 ## Status
 
-Public repository created. `index.html` is the GitHub Pages site source. The method is verified only on the tested setup listed in the guide; consult its limitations before relying on it.
+`index.html` is the GitHub Pages site source. The guide lives there. This method was verified only on the setup listed in the guide. 
 
 ## Files
 
-- `index.html` — published guide.
+- `index.html` — setup guide.
 
-## Hosting
+## Is This AI Slop?
 
-GitHub Pages serves the repository root from the `main` branch.
+100%. I used ChatGPT to figure out how to do this and to help write the guide.
